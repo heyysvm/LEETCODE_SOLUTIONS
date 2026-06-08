@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
