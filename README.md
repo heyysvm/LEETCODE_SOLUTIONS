@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
 <!---LeetCode Topics End-->
