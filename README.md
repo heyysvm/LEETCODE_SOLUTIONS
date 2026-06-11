@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
