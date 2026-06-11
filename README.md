@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
 | [3798-largest-even-number](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
 ## Array
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Recursion
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
