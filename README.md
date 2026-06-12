@@ -4,11 +4,8 @@ A curated collection of LeetCode solutions in C++.
 
 ## 📊 Stats
 
-Solved Problems: 146
+SOLVED PROBLEMS : <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
 
-Last Updated: Automatically via GitHub Actions
-
-Solved Problems: <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
 # LeetCode Topics
 ## Two Pointers
 |  |
