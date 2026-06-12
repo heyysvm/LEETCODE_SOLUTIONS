@@ -22,41 +22,6 @@ A curated collection of LeetCode solutions in C++.
 
 
 
-## 🎯 Goal: 300 Problems
-
-
-
-<table>
-
-<tr>
-
-<td width="70%">
-
-
-
-██████████░░░░░░░░░░░░░░░░░░
-
-
-
-</td>
-
-<td>
-
-
-📈 Progress Snapshot
-
-<!-- PROGRESS_TEXT -->
-31 Solved • 269 Remaining
-<!-- PROGRESS_TEXT -->
-
-
-
-</td>
-
-</tr>
-
-</table>
-
 # LeetCode Topics
 
 ## Two Pointers
