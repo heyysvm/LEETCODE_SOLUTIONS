@@ -2,20 +2,19 @@
 
 A curated collection of LeetCode solutions in C++.
 
-SOLVED PROBLEMS : <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/heyysvm)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/heyysvm?theme=dark&ext=heatmap)
 
-## 🎯 Current Goal
+---
 
-300 Problems
+## 📈 Progress
 
-<!-- PROGRESS_BAR -->
-██████░░░░░░░░░░░░ 31 / 300 (10%)
-<!-- PROGRESS_BAR -->
+🔥 Current Streak & Activity
+
+🎯 Goal: 300 Problems
+
+Solved Problems: **<!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->**
+
+![Progress](https://progress-bar.xyz/10/?title=Road%20to%20300)
 # LeetCode Topics
 ## Two Pointers
 |  |
