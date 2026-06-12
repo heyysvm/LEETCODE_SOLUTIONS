@@ -4,7 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## Stats
 
-Solved Problems: <!-- SOLVED_COUNT -->0<!-- SOLVED_COUNT -->
+Solved Problems: <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
 # LeetCode Topics
 ## Two Pointers
 |  |
