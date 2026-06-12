@@ -9,11 +9,11 @@ public:
         // }
         //  return -1;
 
-        int cand= 0,count= 0 ;
-        for(int num : nums){
-            if(count==0 )cand=num;
-            if(num==cand)count++;
-            else count--;
-        }return cand;
+       int cand=0 ,count=0;
+       for(int num:nums){
+        if(count==0)cand=num;
+        if(num==cand)count++;
+        else count--;
+       }return cand;
     }
 };
