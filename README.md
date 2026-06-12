@@ -7,12 +7,15 @@ SOLVED PROBLEMS : <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/heyysvm)
-![LeetCode Streak](https://leetcard.jacoblin.cool/YOUR_USERNAME?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/heyysvm?theme=dark&ext=heatmap)
 
+## 🎯 Current Goal
 
-## Current Goal
-![Progress](https://img.shields.io/badge/Progress-146%2F300-blue)
+300 Problems
 
+<!-- PROGRESS_BAR -->
+██████░░░░░░░░░░░░ 31 / 300 (10%)
+<!-- PROGRESS_BAR -->
 # LeetCode Topics
 ## Two Pointers
 |  |
