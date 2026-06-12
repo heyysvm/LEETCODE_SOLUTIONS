@@ -2,13 +2,12 @@
 
 A curated collection of LeetCode solutions in C++.
 
-## 📊 Stats
-
 SOLVED PROBLEMS : <!-- SOLVED_COUNT -->31<!-- SOLVED_COUNT -->
 
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/heyysvm)
+
 
 # LeetCode Topics
 ## Two Pointers
