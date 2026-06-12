@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>A curated collection of LeetCode solutions in C++. Consistently solving DSA problems and leveling up. ⚡</strong>
+  <strong>A curated collection of LeetCode solutions in C++.  solving DSA problems and leveling up. </strong>
 </p>
 
 ---
@@ -35,8 +35,7 @@
       </td>
     </tr>
   </table>
-  
-  <p><em>Keep going! Every problem brings you closer to your goal. 🚀</em></p>
+
 </div>
 
 ---
