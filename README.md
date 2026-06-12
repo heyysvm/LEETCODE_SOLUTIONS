@@ -43,8 +43,11 @@ A curated collection of LeetCode solutions in C++.
 <td>
 
 
+📈 Progress Snapshot
 
-**31 / 300 (10%)**
+<!-- PROGRESS_TEXT -->
+31 Solved • 269 Remaining
+<!-- PROGRESS_TEXT -->
 
 
 
@@ -54,91 +57,246 @@ A curated collection of LeetCode solutions in C++.
 
 </table>
 
-## 🧩 LeetCode Topics
+# LeetCode Topics
 
-<details open>
-<summary>📂 <b>Arrays & Matrices</b></summary>
-<br>
+## Two Pointers
 
-| Problem Code | Challenge Name | Links |
-| :---: | :--- | :---: |
-| **0001** | Two Sum | [📂 Solution](./0001-two-sum) |
-| **0014** | Longest Common Prefix | [📂 Solution](./0014-longest-common-prefix) |
-| **0026** | Remove Duplicates from Sorted Array | [📂 Solution](./0026-remove-duplicates-from-sorted-array) |
-| **0027** | Remove Element | [📂 Solution](./0027-remove-element) |
-| **0035** | Search Insert Position | [📂 Solution](./0035-search-insert-position) |
-| **0048** | Rotate Image | [📂 Solution](./0048-rotate-image) |
-| **0080** | Remove Duplicates from Sorted Array II | [📂 Solution](./0080-remove-duplicates-from-sorted-array-ii) |
-| **0121** | Best Time to Buy and Sell Stock | [📂 Solution](./0121-best-time-to-buy-and-sell-stock) |
-| **0167** | Two Sum II - Input Array Is Sorted | [📂 Solution](./0167-two-sum-ii-input-array-is-sorted) |
-| **0169** | Majority Element | [📂 Solution](./0169-majority-element) |
-| **0217** | Contains Duplicate | [📂 Solution](./0217-contains-duplicate) |
-| **0283** | Move Zeroes | [📂 Solution](./0283-move-zeroes) |
-| **0485** | Max Consecutive Ones | [📂 Solution](./0485-max-consecutive-ones) |
-| **3852** | Smallest Pair with Different Frequencies | [📂 Solution](./3852-smallest-pair-with-different-frequencies) |
+| |
 
-</details>
+| ------- |
 
-<details>
-<summary>📂 <b>Strings & String Matching</b></summary>
-<br>
+| [0026-remove-duplicates-from-sorted-array](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 
-| Problem Code | Challenge Name | Links |
-| :---: | :--- | :---: |
-| **0003** | Longest Substring Without Repeating Characters | [📂 Solution](./0003-longest-substring-without-repeating-characters) |
-| **0008** | String to Integer (atoi) | [📂 Solution](./0008-string-to-integer-atoi) |
-| **0014** | Longest Common Prefix | [📂 Solution](./0014-longest-common-prefix) |
-| **0028** | Find the Index of the First Occurrence in a String | [📂 Solution](./0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| **0058** | Length of Last Word | [📂 Solution](./0058-length-of-last-word) |
-| **0125** | Valid Palindrome | [📂 Solution](./0125-valid-palindrome) |
-| **0151** | Reverse Words in a String | [📂 Solution](./0151-reverse-words-in-a-string) |
-| **0205** | Isomorphic Strings | [📂 Solution](./0205-isomorphic-strings) |
-| **0242** | Valid Anagram | [📂 Solution](./0242-valid-anagram) |
-| **0344** | Reverse String | [📂 Solution](./0344-reverse-string) |
-| **1400** | Construct K Palindrome Strings | [📂 Solution](./1400-construct-k-palindrome-strings) |
-| **3798** | Largest Even Number | [📂 Solution](./3798-largest-even-number) |
-| **3856** | Trim Trailing Vowels | [📂 Solution](./3856-trim-trailing-vowels) |
+| [0027-remove-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
 
-</details>
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 
-<details>
-<summary>📂 <b>Hash Table & Counting</b></summary>
-<br>
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 
-| Problem Code | Challenge Name | Links |
-| :---: | :--- | :---: |
-| **0001** | Two Sum | [📂 Solution](./0001-two-sum) |
-| **0003** | Longest Substring Without Repeating Characters | [📂 Solution](./0003-longest-substring-without-repeating-characters) |
-| **0169** | Majority Element | [📂 Solution](./0169-majority-element) |
-| **0205** | Isomorphic Strings | [📂 Solution](./0205-isomorphic-strings) |
-| **0217** | Contains Duplicate | [📂 Solution](./0217-contains-duplicate) |
-| **0242** | Valid Anagram | [📂 Solution](./0242-valid-anagram) |
-| **1400** | Construct K Palindrome Strings | [📂 Solution](./1400-construct-k-palindrome-strings) |
-| **3852** | Smallest Pair with Different Frequencies | [📂 Solution](./3852-smallest-pair-with-different-frequencies) |
+| [0125-valid-palindrome](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
 
-</details>
+| [0151-reverse-words-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 
-<details>
-<summary>📂 <b>Algorithms & Advanced (Two Pointers, Binary Search, DP)</b></summary>
-<br>
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 
-| Paradigm / Strategy | Problem | Link |
-| :---: | :--- | :---: |
-| 🔄 **Two Pointers** | 0026-remove-duplicates-from-sorted-array | [📂 Link](./0026-remove-duplicates-from-sorted-array) |
-| 🔄 **Two Pointers** | 0125-valid-palindrome | [📂 Link](./0125-valid-palindrome) |
-| 🔍 **Binary Search** | 0035-search-insert-position | [📂 Link](./0035-search-insert-position) |
-| 🔍 **Binary Search** | 0069-sqrtx | [📂 Link](./0069-sqrtx) |
-| 🧠 **Dynamic Programming** | 0070-climbing-stairs | [📂 Link](./0070-climbing-stairs) |
-| 🧠 **Dynamic Programming** | 0121-best-time-to-buy-and-sell-stock | [📂 Link](./0121-best-time-to-buy-and-sell-stock) |
-| 🔢 **Math** | 0009-palindrome-number | [📂 Link](./0009-palindrome-number) |
-| ⚡ **Greedy** | 1400-construct-k-palindrome-strings | [📂 Link](./1400-construct-k-palindrome-strings) |
+| [0283-move-zeroes](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 
-</details>
+| [0344-reverse-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
 
----
+## String
 
-<p align="center">
-  ⭐ If you find this repository helpful, give it a star and share it! ⭐
-</p>
+| |
+
+| ------- |
+
+| [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+
+| [0008-string-to-integer-atoi](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
+
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
+
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
+| [0058-length-of-last-word](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
+
+| [0125-valid-palindrome](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0125-valid-palindrome) |
+
+| [0151-reverse-words-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+
+| [0205-isomorphic-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
+
+| [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+
+| [0344-reverse-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0344-reverse-string) |
+
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+
+| [3798-largest-even-number](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3798-largest-even-number) |
+
+| [3856-trim-trailing-vowels](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
+
+## Array
+
+| |
+
+| ------- |
+
+| [0001-two-sum](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
+
+| [0026-remove-duplicates-from-sorted-array](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+
+| [0027-remove-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0027-remove-element) |
+
+| [0035-search-insert-position](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
+
+| [0048-rotate-image](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+
+| [0169-majority-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+
+| [0217-contains-duplicate](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+
+| [0283-move-zeroes](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+
+| [0485-max-consecutive-ones](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
+
+## Hash Table
+
+| |
+
+| ------- |
+
+| [0001-two-sum](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+
+| [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+
+| [0169-majority-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+
+| [0205-isomorphic-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
+
+| [0217-contains-duplicate](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+
+| [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
+
+## Math
+
+| |
+
+| ------- |
+
+| [0007-reverse-integer](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0007-reverse-integer) |
+
+| [0009-palindrome-number](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
+
+| [0048-rotate-image](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+
+| [0050-powx-n](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
+
+| [0069-sqrtx](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+
+| [0070-climbing-stairs](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+
+## Trie
+
+| |
+
+| ------- |
+
+| [0014-longest-common-prefix](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
+
+## Binary Search
+
+| |
+
+| ------- |
+
+| [0035-search-insert-position](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
+
+| [0069-sqrtx](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0069-sqrtx) |
+
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+
+## Dynamic Programming
+
+| |
+
+| ------- |
+
+| [0070-climbing-stairs](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+
+## Memoization
+
+| |
+
+| ------- |
+
+| [0070-climbing-stairs](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+
+## String Matching
+
+| |
+
+| ------- |
+
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
+## Matrix
+
+| |
+
+| ------- |
+
+| [0048-rotate-image](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+
+## Sliding Window
+
+| |
+
+| ------- |
+
+| [0003-longest-substring-without-repeating-characters](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+
+## Counting
+
+| |
+
+| ------- |
+
+| [0169-majority-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+
+| [3852-smallest-pair-with-different-frequencies](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/3852-smallest-pair-with-different-frequencies) |
+
+## Recursion
+
+| |
+
+| ------- |
+
+| [0050-powx-n](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0050-powx-n) |
+
+## Sorting
+
+| |
+
+| ------- |
+
+| [0169-majority-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+
+| [0217-contains-duplicate](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+
+| [0242-valid-anagram](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+
+## Greedy
+
+| |
+
+| ------- |
+
+| [1400-construct-k-palindrome-strings](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/1400-construct-k-palindrome-strings) |
+
+## Divide and Conquer
+
+| |
+
+| ------- |
+
+| [0169-majority-element](https://github.com/heyysvm/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 
 <!---LeetCode Topics End-->
