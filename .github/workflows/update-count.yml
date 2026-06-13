@@ -15,7 +15,7 @@ jobs:
 
       - name: Count problems
         run: |
-          COUNT=$(find . -maxdepth 1 -type d -regex './[0-9].*' | wc -l)
+          COUNT=$(find . -maxdepth 1 -type d | grep -E '^./[0-9]' | wc -l)
           sed -i "s/<!-- SOLVED_COUNT -->.*<!-- SOLVED_COUNT -->/<!-- SOLVED_COUNT -->$COUNT<!-- SOLVED_COUNT -->/" README.md
 
       - name: Commit changes
