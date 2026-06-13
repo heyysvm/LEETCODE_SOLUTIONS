@@ -17,6 +17,7 @@ A curated collection of LeetCode solutions in C++.
 ## 📈 Progress
 
 
+**Solved Problems:** {{LEETCODE_COUNT}}
 
 🔥 Current Streak & Activity
 
