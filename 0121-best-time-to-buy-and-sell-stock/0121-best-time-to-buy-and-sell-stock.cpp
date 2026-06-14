@@ -7,5 +7,10 @@ public:
             maxs = max(prices[i]-minp , maxs); // current minth and ith diff and maxes diff
             minp= min(prices[i],minp);
         }return maxs;
+
+        // for(int price:prices){
+        //     minp = min(minp,price);
+        //     maxs = max(price-minp , maxs);
+        // }return maxs;
     }
 };
