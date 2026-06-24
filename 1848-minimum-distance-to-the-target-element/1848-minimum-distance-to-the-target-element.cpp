@@ -4,9 +4,8 @@ public:
         int ans =   INT_MAX;    
         for(int i=0;i<nums.size();i++){
             if(nums[i]==target){
-                ans = min(ans,abs(i-start));
+                ans =min(ans,abs(i-start));
             }
-        }
-        return ans;
+        } return ans;
     }
 };
