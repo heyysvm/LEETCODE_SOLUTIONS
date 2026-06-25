@@ -10,7 +10,7 @@ public:
 
         for(int i=0;i<26;i++){
             if((freq1[i]==0) != (freq2[i]==0)) return false;
-        }
+        }   // checking the char is present in both or not rthr than its no of occurences
 
         sort(freq1.begin(),freq1.end());
         sort(freq2.begin(),freq2.end());
