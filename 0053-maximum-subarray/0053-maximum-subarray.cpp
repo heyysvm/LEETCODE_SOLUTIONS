@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int maxs = INT_MIN;
+        int maxs = INT_MIN; //  must be min int val
         int sum =0;
         // int start = 0;
         // int st = -1 , end = -1;  //for printing the subarray
