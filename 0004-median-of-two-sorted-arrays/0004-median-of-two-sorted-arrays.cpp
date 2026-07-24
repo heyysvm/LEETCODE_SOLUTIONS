@@ -17,6 +17,6 @@ public:
 
         int  n =  n1+n2;
         if(n%2==1) return nums3[n/2];
-        return (double)((double)nums3[n/2]+(double)nums3[n/2-1])/2.0;
+        return (nums3[n/2]+nums3[n/2-1])/2.0;
     }
 };
