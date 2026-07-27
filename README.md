@@ -19,7 +19,7 @@ A curated collection of LeetCode solutions in C++.
 
 ## 📈 Progress
 
-Solved Problems: <!-- SOLVED_COUNT -->141<!-- SOLVED_COUNT -->
+Solved Problems: <!-- SOLVED_COUNT -->142<!-- SOLVED_COUNT -->
 
 🔥 Current Streak & Activity
 
