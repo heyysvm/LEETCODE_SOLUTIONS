@@ -29,8 +29,8 @@ public:
             int right = mid+1 < m ? mat[row][mid+1] : INT_MIN;
 
             if(mat[row][mid]>left && mat[row][mid]>right) return{row,mid};
-            else if(left>mat[row][mid]) high = mid-1;
-            else low = mid+1;
+            else if (right > mat[row][mid])low = mid+1;
+            else high = mid-1;
         }
         return {-1,-1};
     }
