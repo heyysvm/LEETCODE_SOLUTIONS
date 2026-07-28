@@ -6,12 +6,12 @@ public:
             {'C',100} , {'D',500} ,{'M',1000}
         };
         int ans=0;
-        for(int i =0;i<s.size();i++){
+        for(int i =0;i<s.size()-1;i++){
             if(roman[s[i]]<roman[s[i+1]]){
                 ans -= roman[s[i]];
             }
             else ans+= roman[s[i]];
         }
-        return ans;
+        return ans+roman[s.back()];
     }
 };
