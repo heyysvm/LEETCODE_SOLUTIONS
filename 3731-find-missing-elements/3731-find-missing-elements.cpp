@@ -11,14 +11,29 @@ public:
         // }
         // return ans;
 
-        unordered_set<int> st(nums.begin(),nums.end());
-        vector<int> ans;
+        // unordered_set<int> st(nums.begin(),nums.end());
+        // vector<int> ans;
+
+        // int mins = *min_element(nums.begin(),nums.end());
+        // int maxs = *max_element(nums.begin(),nums.end());
+
+        // for(int x=mins+1; x<maxs; x++){
+        //     if(!st.count(x)) ans.push_back(x);
+        // }
+
+
+        // return ans;
+
+        vector<int>ans;
+        vector<bool>isPresent(101,false);
 
         int mins = *min_element(nums.begin(),nums.end());
         int maxs = *max_element(nums.begin(),nums.end());
-
-        for(int x=mins+1; x<maxs; x++){
-            if(!st.count(x)) ans.push_back(x);
+        for(int x:nums){
+            isPresent[x]=true;
+        }
+        for(int x=mins+1;x<maxs;x++){
+            if(isPresent[x]==false) ans.push_back(x);
         }
         return ans;
 
