@@ -1,7 +1,54 @@
-// class Solution {
-// public:
-//     string smallestNumber(string num, long long t) {
-        
+class Solution {
+
+    struct Factors {
+        long long count2 = 0;
+        long long count3 = 0;
+        long long count5 = 0;
+        long long count7 = 0;
+    };
+
+    Factors reduce(Factors f, int digit) {
+        if (digit == 2) f.count2 = max(0LL, f.count2 - 1);
+        if (digit == 3) f.count3 = max(0LL, f.count3 - 1);
+        if (digit == 4) f.count2 = max(0LL, f.count2 - 2);
+        if (digit == 5) f.count5 = max(0LL, f.count5 - 1);
+        if (digit == 6) {
+            f.count2 = max(0LL, f.count2 - 1);
+            f.count3 = max(0LL, f.count3 - 1);
+        }
+        if (digit == 7) f.count7 = max(0LL, f.count7 - 1);
+        if (digit == 8) f.count2 = max(0LL, f.count2 - 3);
+        if (digit == 9) f.count3 = max(0LL, f.count3 - 2);
+        return f;
+    }
+
+    int getMinDigitsNeeded(Factors f) {
+        long long c2 = max(0LL, f.count2);
+        long long c3 = max(0LL, f.count3);
+        long long c5 = max(0LL, f.count5);
+        long long c7 = max(0LL, f.count7);
+
+        int total = c5 + c7;
+
+        total += (c2 / 3);
+        total += (c3 / 2);
+
+        int rem2 = c2 % 3;
+        int rem3 = c3 % 2;
+
+        if (rem2 == 0 && rem3 == 0) {
+            
+        } else if (rem2 == 2 && rem3 == 1) {
+            total += 2;
+        } else {
+            total += 1;
+        }
+
+        return total;
+    }       
+
+public:
+    string smallestNumber(string num, long long t) {
 //         // string ans="-1";
 //         // long long  n = stoll(num);
         
@@ -86,20 +133,6 @@
 // //         }
 
        
-// #include <iostream>
-// #include <string>
-// #include <vector>
-// #include <algorithm>
-
-// using namespace std;
-
-// class Solution {
-//     struct Factors {
-//         long long count2 = 0;
-//         long long count3 = 0;
-//         long long count5 = 0;
-//         long long count7 = 0;
-//     };
 
 //     Factors reduce(Factors f, int digit) {
 //         if (digit == 2) f.count2 = max(0LL, f.count2 - 1);
@@ -221,59 +254,8 @@
 
 //         return result;
 //     }
-// };
+// };    
 
-
-class Solution {
-    struct Factors {
-        long long count2 = 0;
-        long long count3 = 0;
-        long long count5 = 0;
-        long long count7 = 0;
-    };
-
-    Factors reduce(Factors f, int digit) {
-        if (digit == 2) f.count2 = max(0LL, f.count2 - 1);
-        if (digit == 3) f.count3 = max(0LL, f.count3 - 1);
-        if (digit == 4) f.count2 = max(0LL, f.count2 - 2);
-        if (digit == 5) f.count5 = max(0LL, f.count5 - 1);
-        if (digit == 6) {
-            f.count2 = max(0LL, f.count2 - 1);
-            f.count3 = max(0LL, f.count3 - 1);
-        }
-        if (digit == 7) f.count7 = max(0LL, f.count7 - 1);
-        if (digit == 8) f.count2 = max(0LL, f.count2 - 3);
-        if (digit == 9) f.count3 = max(0LL, f.count3 - 2);
-        return f;
-    }
-
-    int getMinDigitsNeeded(Factors f) {
-        long long c2 = max(0LL, f.count2);
-        long long c3 = max(0LL, f.count3);
-        long long c5 = max(0LL, f.count5);
-        long long c7 = max(0LL, f.count7);
-
-        int total = c5 + c7;
-
-        total += (c2 / 3);
-        total += (c3 / 2);
-
-        int rem2 = c2 % 3;
-        int rem3 = c3 % 2;
-
-        if (rem2 == 0 && rem3 == 0) {
-            
-        } else if (rem2 == 2 && rem3 == 1) {
-            total += 2;
-        } else {
-            total += 1;
-        }
-
-        return total;
-    }
-
-public:
-    string smallestNumber(string num, long long t) {
         Factors required;
 
         while (t % 2 == 0) { required.count2++; t /= 2; }
